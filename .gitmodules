@@ -1,0 +1,4 @@
+[submodule "internal"]
+	path = internal
+	url = https://github.com/abakCroc/croc.git
+	branch = main
